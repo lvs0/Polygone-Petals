@@ -34,3 +34,4 @@ graph LR
 
 ## ⚖️ License
 MIT License - 2026 Lévy / Polygone Ecosystem.
+By Hope
