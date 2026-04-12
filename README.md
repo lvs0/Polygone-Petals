@@ -4,6 +4,12 @@
 
 Polygone-Petals allows you to run massive language models collectively. The network shards the model layers across multiple peers, creating a distributed inference pipeline.
 
+---
+
+**Project origin · Origine :** French engineering · **[l-vs](https://github.com/lvs0)** · collective **Hope** (*by Hope*). Public focus: **post-quantum** protocols — not hosting economics or free-tier setups.
+
+---
+
 ## 🚀 Key Features
 
 - **Sequential Pipelining**: Send hidden states through a series of peers, each computing a specific segment of the model.
@@ -33,5 +39,4 @@ graph LR
 ```
 
 ## ⚖️ License
-MIT License - 2026 Lévy / Polygone Ecosystem.
-By Hope
+MIT License — 2026 · **l-vs** · **Hope** (*by Hope*) · Polygone ecosystem
