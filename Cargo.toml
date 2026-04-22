@@ -6,7 +6,7 @@ authors = ["l-vs (Hope)"]
 description = "Distributed AI Inference over the Polygone ephemeral network"
 
 [dependencies]
-polygone-core = { path = "../Polygone" }
+polygone = { path = "../Polygone" }
 
 # Machine Learning (Candle)
 candle-core = "0.7"
